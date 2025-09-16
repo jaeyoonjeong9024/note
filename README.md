@@ -1,0 +1,48 @@
+♣ 인공지능 기초를 위한 FAQ
+
+1. 인공지능에서 지능에 해당하는 기능은 무엇인가?
+2. 인공지능의 종류 3가지에 대해서 설명하시오 (지도학습, 반지도학습, 강화학습)
+3. 전통적인 프로그래밍 방법과 인공지능 프로그램의 차이점은 무엇인가?
+4. 딥러닝과 머신러닝의 차이점은 무엇인가?
+5. Training과 Test data를 구분하는 이유는?
+6. Classification과 Regression의 주된 차이점은?
+7. 머신러닝에서 차원의 저주(curse of dimensionality)란?
+8. Dimensionality Reduction는 왜 필요한가?
+9. Ridge와 Lasso의 공통점과 차이점? (Regularization, 규제 , Scaling)
+10. Overfitting vs. Underfitting
+11. Feature Engineering과 Feature Selection의 차이점은?
+12. 전처리(Preprocessing)의 목적과 방법? (노이즈, 이상치, 결측치)
+13. EDA(Explorary Data Analysis)란? 데이터의 특성 파악(분포, 상관관계)
+14. 회귀에서 절편과 기울기가 의미하는 바는? 딥러닝과 어떻게 연관되는가?
+15. Activation function 함수를 사용하는 이유? Softmax, Sigmoid 함수의 차이는? 
+16. Forward propagation, Backward propagation이란?
+17. 손실함수란 무엇인가? 가장 많이 사용하는 손실함수 4가지 종류는?
+18. 옵티마이저(optimizer)란 무엇일까? 옵티마이저와 손실함수의 차이점은?
+19. 경사하강법 의미는? (확률적 경사하강법, 배치 경사하강법, 미치 배치경사하강법)
+20. 교차검증, K-fold 교차검증의 의미와 차이
+21. 하이퍼파라미터 튜닝이란 무엇인가?
+22. CNN의 합성곱의 역활은?
+23. CNN의 풀링층의 역활은?
+24. CNN의 Dense Layer의 역활은?
+25. CNN의 stride, filter의 역활? 필터의 가중치는 어떻게 결정되는가?
+26. RNN을 사용하는 이유와 한계점은?
+27. LSTM을 사용하는 이유와 한계점은?
+28. GRU을 사용하는 이유와 차별성은?
+29. 결정트리에서  불순도(Impurity) – 지니 계수(Gini Index)란 무엇인가?
+30. 앙상블이란 무엇인가?
+31. 부트 스트랩핑(bootstraping)이란 무엇인가?
+32. 배깅(Bagging)이란 무엇인가?
+33. 주성분 분석(PCA) 이란 무엇인가?
+34. Dense Layer란 무엇인가?
+
+
+ ♣ Advanced AI를 위한 FAQ
+
+1. Inception 모듈은 무엇인가? 장점은?
+2. 1 x 1 convolution의 역활?
+3. Skip Connnection이란? 학습할때 장점? Skip Connnection이 해결하는 문제점?
+4. SE block에서 GAP의 역활은? Squeeze는 어떻게? Excitation은 어떻게 작동하나?
+5. Depthwise Convolution 이란?
+6. Pointwise Convolution 이란?
+7. CBAM에서 Channel Attention과 Spatial Attention은 어떻게 추출하는가? 두개의 Attention을 사용함으로써 얻어지는 장점? 
+   
